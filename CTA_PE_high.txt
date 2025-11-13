@@ -1,0 +1,19 @@
+﻿PATIENT: Mr. James K.  MRN: 78945612   Contact: +90 532 123 4567   Email: james.k@example.org
+STUDY: CT Pulmonary Angiography (CTPA)
+
+HISTORY:
+Acute pleuritic chest pain and dyspnea starting this morning while at rest. D-dimer elevated.
+
+TECHNIQUE:
+CTPA with contrast, bolus tracking at main pulmonary artery. Axial and MPR images reviewed.
+
+FINDINGS:
+- Acute pulmonary emboli within segmental and subsegmental branches of the RIGHT LOWER LOBE.
+- Mild dependent atelectasis at bases. Trace right pleural effusion.
+- RV/LV ratio < 1.0. No bowing of the interventricular septum. No reflux of contrast into IVC.
+- No pulmonary infarct. No pneumothorax. Central airways patent.
+
+IMPRESSION:
+1) Acute PULMONARY EMBOLISM in segmental branches of the RIGHT LOWER LOBE.
+2) No CT evidence of RIGHT HEART STRAIN (RV/LV < 1).
+3) Small right pleural effusion. Recommend anticoagulation per protocol.
