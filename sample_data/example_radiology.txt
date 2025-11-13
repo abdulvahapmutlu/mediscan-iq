@@ -1,0 +1,3 @@
+Patient Mr. John Doe was admitted on 01/12/2023. Contact: +1 415-555-0199, john.doe@hospital.org
+FINDINGS: Mild cardiomegaly. No acute pulmonary edema. No pleural effusion.
+IMPRESSION: Mild cardiomegaly without acute cardiopulmonary process. MRN: 12345678
