@@ -1,9 +1,0 @@
-﻿HISTORY: Fever, productive cough.
-EXAM: Portable AP chest radiograph.
-
-FINDINGS:
-- New right upper lobe air-space consolidation with air bronchograms.
-- Mild cardiomegaly. No pleural effusion. No pneumothorax.
-
-IMPRESSION:
-Right upper lobe PNEUMONIA. Mild cardiomegaly. Recommend clinical correlation and therapy.
